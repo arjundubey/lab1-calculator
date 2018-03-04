@@ -9,7 +9,7 @@ class calcBody extends React.Component {
           <Button label="-" />
           <Button label="/" />
           <Button label="*" />
-          <Button label="=" />
+          
       </div>
 
 	 	      	)
